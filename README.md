@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YerrajeniReddy123
+- 👋 Hi, I’m @Dilip Reddy
 - 👀 I’m interested in building Web Applications
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Full Stack Development
